@@ -32,7 +32,7 @@ A detailed Jupyter Notebook offering a comprehensive analysis of the diabetes da
 #### Technologies Used:
 - Jupyter Notebook
 - Python
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Missingno
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, LinearRegression, RandomForest, GridSearchCV
 
 ### 2. Diabetes Prediction App (Django Web Application)
 A Django-based web application that predicts the likelihood of diabetes using a logistic regression model. This app allows users to input their health metrics and receive real-time predictions.
